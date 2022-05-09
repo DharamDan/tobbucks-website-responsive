@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.row{
+    background: #146CC4;
+    height: auto;
+
+}
+.colno1{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 50px;
+}
+.colno1 p{
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 10px;
+
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+    
+}
